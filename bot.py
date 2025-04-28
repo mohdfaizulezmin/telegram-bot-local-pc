@@ -31,7 +31,7 @@ unknown_replies = [
     "Maaf, saya tak pasti maksud awak... cuba tanya lain?",
     "Hmm... saya tak faham sangat. Boleh ulang soalan?",
     "Saya tengah fikir jawapan... boleh tanya dengan ayat lain?",
-    "Hehe... saya blur kejap. Cuba explain lagi."
+    "Hehe... saya blur kejap. Cuba explain lagi.",
     "..."
 ]
 
